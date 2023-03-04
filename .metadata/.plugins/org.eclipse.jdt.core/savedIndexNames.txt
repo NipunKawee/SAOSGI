@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\SLIIT\Year 03\Semester 02\SA\OSGI\.metadata\.plugins\org.eclipse.jdt.core
+1592168869.index
+1601946598.index
+63689950.index

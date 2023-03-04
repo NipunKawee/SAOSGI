@@ -1,0 +1,5 @@
+package exchangerateproducer;
+
+public interface ExchangeRate {
+
+}
